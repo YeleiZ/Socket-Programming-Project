@@ -1,8 +1,4 @@
-#				EE450 SOCKET PROGRAMMING PROJECT
-#Full Name:Yelei Zhang
-#USC    ID:1745298022
-#Net    ID:yeleizha
-#Section 3
+#				 SOCKET PROGRAMMING PROJECT
 
 
 *What I have done in the assignment.
